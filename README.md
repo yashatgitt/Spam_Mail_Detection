@@ -34,14 +34,14 @@ If you prefer running it locally, follow these steps:
 
 ✅Get the result: You’ll see the classification result instantly.
 
-##Technologies Used
--🐍Python
--scikit-learn (for machine learning)
--NLTK (for text preprocessing and NLP)
--Streamlit (for building the web app)
+## Technologies Used
+- 🐍Python
+- scikit-learn (for machine learning)
+- NLTK (for text preprocessing and NLP)
+- Streamlit (for building the web app)
 
-##Contributing
--Feel free to fork the repository, submit issues, or create pull requests for improvements. Any contributions are welcome! 
+## Contributing
+- Feel free to fork the repository, submit issues, or create pull requests for improvements. Any contributions are welcome! 
 
 
 
