@@ -27,21 +27,21 @@ If you prefer running it locally, follow these steps:
    ```bash
     spamDetector.py
 
-How to Use
+## How to Use
 📥Upload your email: Copy and paste the content of the email into the provided text input box.
 
 🔍Classify: Hit the "Classify" button, and the model will predict whether the email is spam or ham.
 
 ✅Get the result: You’ll see the classification result instantly.
 
-Technologies Used
-🐍Python
-scikit-learn (for machine learning)
-NLTK (for text preprocessing and NLP)
-Streamlit (for building the web app)
+##Technologies Used
+-🐍Python
+-scikit-learn (for machine learning)
+-NLTK (for text preprocessing and NLP)
+-Streamlit (for building the web app)
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+##Contributing
+-Feel free to fork the repository, submit issues, or create pull requests for improvements. Any contributions are welcome! 
 
 
 
