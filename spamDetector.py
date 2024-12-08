@@ -6,7 +6,7 @@ cv = pickle.load(open('vec.pkl','rb'))
 
 def main():
 	st.title("Email Spam Classification Platform")
-	st.write("This is a Machine Learning application to classify emails as spam or ham.")
+	st.write("This is a Machine Learning and NLP application to classify emails as spam or ham.")
 	st.subheader("Classification")
 	user_input=st.text_area("Enter an email to classify" ,height=150)
 	if st.button("Classify"):
