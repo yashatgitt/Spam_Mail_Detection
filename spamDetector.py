@@ -16,9 +16,9 @@ def main():
 			vec=cv.transform(data).toarray()
 			result=model.predict(vec)
 			if result[0]==0:
-				st.success("This is Not A Spam Email")
+				st.success("This is Not A Spam  Email")
 			else:
-				st.error("This is A Spam Email")
+				st.error("This is A Spam 🚫 Email")
 		else:
 			st.write("Please enter an email to classify.")
 main()
