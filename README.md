@@ -18,10 +18,13 @@ If you prefer running it locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/spam-mail-detection.git
 2. Navigate to the project folder:
+   ```bash
     cd spam-mail-detection
 3. Install the necessary dependencies:
+   ```bash
     pip install -r requirements.txt
 4. Run the Streamlit app:
+   ```bash
     spamDetector.py
 
 How to Use
