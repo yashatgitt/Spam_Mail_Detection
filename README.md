@@ -16,10 +16,10 @@ If you prefer running it locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yashatgitt/spam-mail-detection.git
+   git clone https://github.com/yashatgitt/Spam_Mail_Detection.git
 2. Navigate to the project folder:
    ```bash
-    cd spam-mail-detection
+    cd Spam_Mail_Detection
 3. Install the necessary dependencies:
    ```bash
     pip install -r requirements.txt
