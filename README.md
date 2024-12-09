@@ -16,7 +16,7 @@ If you prefer running it locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/spam-mail-detection.git
+   git clone https://github.com/yashatgitt/spam-mail-detection.git
 2. Navigate to the project folder:
    ```bash
     cd spam-mail-detection
