@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the **Spam Mail Detection** project! This is a machine learning-based solution that uses **Natural Language Processing (NLP)** techniques to classify emails as spam or ham (non-spam). The model is built using popular libraries like **scikit-learn** and **NLTK**, and it can be easily run through the provided **Streamlit app**.
 
-🚀 **Try it out online**: [Spam Mail Detection Streamlit App](https://yashatgitt.github.io/GharSaathi/)
+🚀 **Try it out online**: [Spam Mail Detection Streamlit App](https://spammaildetectiongit-mxe5dejn3khetsnrju5qg9.streamlit.app/)
 
 ## Features
 - **🤖Machine Learning Model**: Trained on a dataset of labeled emails (spam and ham) to predict email classification.
